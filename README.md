@@ -8,3 +8,4 @@ The code will be uploaded when the main features completed:
 ### Remaining fetures
 - [ ] define bone structure of `.pmx` model and animating
 - [ ] define physics for 3D model
+- [ ] control the model programicaly with predefined motion files
