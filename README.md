@@ -9,3 +9,5 @@ The code will be uploaded when the main features completed:
 - [ ] define bone structure of `.pmx` model and animating
 - [ ] define physics for 3D model
 - [ ] control the model programicaly with predefined motion files
+
+![image](https://github.com/alient12/MikuMikuAlive/assets/73688480/6b0efc4e-e8cd-4e87-b655-bc3ff0307089)
